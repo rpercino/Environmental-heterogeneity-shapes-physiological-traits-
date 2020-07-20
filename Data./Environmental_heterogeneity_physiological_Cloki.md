@@ -1,11 +1,11 @@
-#Environmental heterogeneity shapes physiological traits in tropical direct-developing frogs
+# Environmental heterogeneity shapes physiological traits in tropical direct-developing frogs
 
-###This is a repository of the manuscript in development "Environmental heterogeneity shapes physiological traits in tropical direct-developing frogs"
+### This is a repository of the manuscript in development "Environmental heterogeneity shapes physiological traits in tropical direct-developing frogs"
 
-######Ruth Percino-Daniel, José M. Contreras López, Oswaldo Téllez-Valdés, Fausto R. Méndez de la Cruz, Alejandro Gonzalez-Voyer and Daniel Piñero.
+###### Ruth Percino-Daniel, José M. Contreras López, Oswaldo Téllez-Valdés, Fausto R. Méndez de la Cruz, Alejandro Gonzalez-Voyer and Daniel Piñero.
 
 
-###Data bases
+### Data bases
  * Body, substrate and air temperature
  * Operative temperature
  * Critical Thermal limits
@@ -20,7 +20,7 @@
 model 3
 ![](lm_tb_m3.pdf)
 
- ###Results
+ ### Results
 
 ```
 	df		AIC			BIC
@@ -40,7 +40,7 @@ tmp4 17 1004.2997	1067.433
  model 3
  ![](lm_air_m3.pdf)
  
- ###Results
+ ### Results
  
  
 ``` 
@@ -61,7 +61,7 @@ model 3
 ![](lm_substrate_m3.pdf)
 
 
- ###Results
+ ### Results
 
 ```
 	  df		AIC			BIC
