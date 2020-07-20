@@ -19,9 +19,10 @@
 
 model 3
 
+``
 ![](lm_tb_m3.pdf)
-
- ### Results
+``
+### Results
 
 ```
 	df		AIC			BIC
