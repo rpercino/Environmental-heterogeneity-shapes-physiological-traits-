@@ -1,2 +1,3 @@
 # Environmental-heterogeneity-shapes-physiological-traits-
-This is a data repository of the article: "Environmental heterogeneity shapes physiological traits in tropical direct-developing frog"
+
+This is a repository of the manuscript in development "Environmental heterogeneity shapes physiological traits in tropical direct-developing frogs"
