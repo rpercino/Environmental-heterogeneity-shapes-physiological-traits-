@@ -19,7 +19,8 @@
 
 model 3
 
-![lm_tb_m3](lm_tb_m3.pdf)
+![](lm_tb_m3.pdf)
+
 
  ### Results
 
@@ -40,7 +41,8 @@ tmp4 17 1004.2997	1067.433
  
  model 3
  
- ![lm_air_m3](lm_air_m3.pdf)
+ ![](lm_air_m3.pdf)
+ 
  
  ### Results
  
@@ -60,7 +62,8 @@ tmp4 17 1182.433		1247.374
 * Model 4: SubsTemp ~ Pop + Elevation + Domain
 
 model 3
-![lm_substrate_m3](lm_substrate_m3.pdf)
+![](lm_substrate_m3.pdf)
+
 
 
  ### Results
