@@ -18,7 +18,7 @@
 * Model 4: BodyTemp ~ Pop + Elevation + Domain
 
 model 3
-![https://github.com/rpercino/Environmental-heterogeneity-shapes-physiological-traits-/BodyTemperature/lm_tb_m3.pdf](https://github.com/rpercino/Environmental-heterogeneity-shapes-physiological-traits-/BodyTemperature/lm_tb_m3.pdf)
+![Environmental-heterogeneity-shapes-physiological-traits-/BodyTemperature/lm_tb_m3.pdf](Environmental-heterogeneity-shapes-physiological-traits-/BodyTemperature/lm_tb_m3.pdf)
 
 
  ### Results
