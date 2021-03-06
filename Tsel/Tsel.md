@@ -7,10 +7,10 @@
 
 * Preferred temperature (Tsel)
 
-The data file is **myvar3** 
+The data file is **Crau_tsel** 
 
-upload library
-#
+#####upload library
+
 library(nlme)
 
 ## Models
