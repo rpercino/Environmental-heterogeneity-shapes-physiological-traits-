@@ -295,15 +295,10 @@ Elevation:DomainBlue    0.011201   0.018949   0.591 0.555403
 
 ```
 
-
-```
-
-
 ```
 Multiple R-squared:  0.9511,	Adjusted R-squared:  0.9443 
 F-statistic: 140.2 on 19 and 137 DF,  p-value: < 2.2e-16
 ```
-
 
 
 #### Cooling tolerance models 
@@ -316,6 +311,7 @@ F-statistic: 140.2 on 19 and 137 DF,  p-value: < 2.2e-16
 
 * tmp6<-lm(Cool_T ~ Elevation + Pop + SVL + Domain:Elevation, data = CoolTol)
 
+
 #### Results
 
 ```
@@ -326,12 +322,9 @@ tmp6 21 613.1759     0.0000 0.6649 0.6649 -282.2157
 tmp3 22 614.5463     1.3705 0.3351 1.0000 -281.5526
 tmp5 21 641.2186    28.0427 0.0000 1.0000 -296.3558
 tmp1 20 681.9939    68.8180 0.0000 1.0000 -318.2518
-
 ```
 
 **model 6**
-
-
 
 ```
 lm(formula = Cool_T ~ Elevation + Pop + SVL + Domain:Elevation, 
@@ -369,8 +362,8 @@ Elevation:DomainBlue     0.010106   0.028263   0.358  0.72121
 ```
 Multiple R-squared:  0.7967,	Adjusted R-squared:  0.7689 
 F-statistic: 28.66 on 19 and 139 DF,  p-value: < 2.2e-16
-
 ```
+
 
 #### CTmax and maximum daily temperature (Tmax_hab)
 
@@ -404,6 +397,7 @@ tmp2 21 500.4595    15.5138 0.0003 1.0000 -225.9298
 tmp1 20 539.3535    54.4077 0.0000 1.0000 -246.8767
 tmp5 20 539.3535    54.4077 0.0000 1.0000 -246.8767
 ```
+
 **model 3**
 
 ```
@@ -469,7 +463,6 @@ tmp4 22 616.5813     1.3263   0.34   1.00 -282.5700
 tmp2 21 643.3639    28.1090   0.00   1.00 -297.4284
 tmp5 20 684.2140    68.9591   0.00   1.00 -319.3619
 tmp1 20 684.2140    68.9591   0.00   1.00 -319.3619
-
 ```
 
 **model 3**
@@ -513,7 +506,6 @@ Elevation:DomainBlue    -0.010006   0.028448  -0.352  0.72558
 ```
 Multiple R-squared:  0.4993,	Adjusted R-squared:  0.4309 
 F-statistic: 7.296 on 19 and 139 DF,  p-value: 2.707e-13
-
 ```
 
 
