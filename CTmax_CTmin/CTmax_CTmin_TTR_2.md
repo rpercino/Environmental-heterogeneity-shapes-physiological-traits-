@@ -167,14 +167,12 @@ Elevation:DomainBlue   -0.010006   0.028448  -0.352  0.72558
 ```
 
 
-
 ```
 Multiple R-squared:  0.4993,	Adjusted R-squared:  0.4309 
 F-statistic: 7.296 on 19 and 139 DF,  p-value: 2.708e-13
 
 ``` 
- 
- 
+  
 #### Thermal tolerance range (thermal breath) models
 * tmp1<-lm(TTR ~ Elevation + Pop + Domain:Elevation, data = CTMax_min)
 
@@ -187,17 +185,6 @@ F-statistic: 7.296 on 19 and 139 DF,  p-value: 2.708e-13
 
 
 ### Results 
-```
-Model selection based on AICc:
-
-      K     AICc Delta_AICc AICcWt Cum.Wt        LL
-tmp3 21 689.5419     0.0000 0.5675 0.5675 -320.3232
-tmp4 22 690.0849     0.5430 0.4325 1.0000 -319.2379
-tmp2 21 719.9333    30.3914 0.0000 1.0000 -335.6429
-tmp1 20 771.7808    82.2389 0.0000 1.0000 -363.0716
-
-```
-
 
 ```
 Model selection based on AICc:
