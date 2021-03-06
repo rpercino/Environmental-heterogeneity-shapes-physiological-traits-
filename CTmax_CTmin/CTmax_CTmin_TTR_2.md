@@ -377,7 +377,7 @@ F-statistic: 28.66 on 19 and 139 DF,  p-value: < 2.2e-16
 
 * tmp5<-lm(CTmax ~ Tmax_hab + Pop + Domain:Elevation, data = WT1)
 
-## AICc
+##### AICc
 Cand.models<-list(tmp1, tmp2, tmp3, tmp4, tmp5)
 
 Modnames<-c("tmp1", "tmp2", "tmp3", "tmp4", "tmp5")
