@@ -13,7 +13,7 @@
 * CTmax and maximum daily temperature (**Tmax_hab**) 
 * CTmin and minimum daily temperature (**Tmin-hab)** 
 
-The data file is **CTMax_min_r** 
+The data file is **Thermal_limits_WT_CT** 
 
 ### Models using lm
 
